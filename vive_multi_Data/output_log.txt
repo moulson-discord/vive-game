@@ -1,0 +1,78 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 Fury Series (ID=0x7300)
+    Vendor:   ATI
+    VRAM:     4070 MB
+    Driver:   21.19.523.2
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dan\Desktop\projects\vive-game\vive_multi_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 144Hz; virtual: 6400x1440 at -1920,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+UnloadTime: 0.416702 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ae8 -> priority: 1 
+  Thread -> id: 3bec -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.131065 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.136175 ms (FindLiveObjects: 0.011496 ms CreateObjectMapping: 0.015329 ms MarkObjects: 0.104239 ms  DeleteObjects: 0.004854 ms)
+
+SteamVR_GameView is deprecated in Unity 5.4 - REMOVING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected to lighthouse:LHR-5264842F
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trigger pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trigger released
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trigger pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trigger released
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.671935 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 0.208223 ms (FindLiveObjects: 0.016095 ms CreateObjectMapping: 0.010475 ms MarkObjects: 0.173987 ms  DeleteObjects: 0.007409 ms)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+
